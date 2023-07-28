@@ -1,1 +1,2 @@
 # Employee_management_system
+A simple Java project for employee management allows users to easily add, update, and delete employee details. The application provides a straightforward interface to input and modify employee information, making it convenient for HR personnel or managers to maintain an up-to-date database. By simplifying these essential tasks, the project helps improve efficiency in managing employee records and ensures accurate data management.
